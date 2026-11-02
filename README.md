@@ -6,6 +6,8 @@ https://ke60315-ux.github.io/erlin-water-demo/
 
 五方法綜合分數代表查核優先順序，不是實際漏水率或漏水機率。截圖邊界為參考範圍。原始水量資料留在後端，不包含在本網站檔案中。
 
+功能：漏水查核排序與 GIS 地圖、漏水損失金額估算、漏水模擬（多快會被發現）、未來用水需求情境預測。新功能需後端同步更新後才會顯示。
+
 本 repo 只放編譯後的網站；原始碼與建置方式見私人 repo `erlin-water-assistant-` 的 `pages/DEPLOY.md`。
 
 Pages: main / (root)
